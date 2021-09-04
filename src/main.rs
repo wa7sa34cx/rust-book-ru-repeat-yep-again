@@ -1,3 +1,5 @@
+mod ch02_guessing_game;
+
 fn main() {
-    println!("Hello, world!");
+    ch02_guessing_game::run();
 }
